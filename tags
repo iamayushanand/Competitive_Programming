@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+DEBUG	/Users/ayush/programming/src/TopcoderPractice/Aseries/main.cpp	/^#define DEBUG(/;"	d	file:
+FOR	/Users/ayush/programming/src/TopcoderPractice/Aseries/main.cpp	/^#define FOR(/;"	d	file:
+INF	/Users/ayush/programming/src/TopcoderPractice/Aseries/main.cpp	/^const int INF= 2147483647;$/;"	v
+MAX	/Users/ayush/programming/src/TopcoderPractice/Aseries/main.cpp	/^#define MAX(/;"	d	file:
+MIN	/Users/ayush/programming/src/TopcoderPractice/Aseries/main.cpp	/^#define MIN(/;"	d	file:
+MOD	/Users/ayush/programming/src/TopcoderPractice/Aseries/main.cpp	/^#define MOD /;"	d	file:
+REP	/Users/ayush/programming/src/TopcoderPractice/Aseries/main.cpp	/^#define REP(/;"	d	file:
+REV	/Users/ayush/programming/src/TopcoderPractice/Aseries/main.cpp	/^#define REV(/;"	d	file:
+SORT	/Users/ayush/programming/src/TopcoderPractice/Aseries/main.cpp	/^#define SORT(/;"	d	file:
+ll	/Users/ayush/programming/src/TopcoderPractice/Aseries/main.cpp	/^#define ll /;"	d	file:
+main	/Users/ayush/programming/src/TopcoderPractice/Aseries/main.cpp	/^int main(){$/;"	f	signature:()
+pb	/Users/ayush/programming/src/TopcoderPractice/Aseries/main.cpp	/^#define pb(/;"	d	file:
+pii	/Users/ayush/programming/src/TopcoderPractice/Aseries/main.cpp	/^#define pii /;"	d	file:
