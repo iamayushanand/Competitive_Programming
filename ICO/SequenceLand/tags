@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+K	/Users/ayush/programming/src/ICO/SequenceLand/main.cpp	/^int N,K;$/;"	v
+M	/Users/ayush/programming/src/ICO/SequenceLand/main.cpp	/^int M[301];$/;"	v
+N	/Users/ayush/programming/src/ICO/SequenceLand/main.cpp	/^int N,K;$/;"	v
+dfs	/Users/ayush/programming/src/ICO/SequenceLand/main.cpp	/^int dfs(int i,int cnt){$/;"	f	signature:(int i,int cnt)
+graph	/Users/ayush/programming/src/ICO/SequenceLand/main.cpp	/^int graph[301][301];$/;"	v
+ids	/Users/ayush/programming/src/ICO/SequenceLand/main.cpp	/^int ids[301][301];$/;"	v
+isconnected	/Users/ayush/programming/src/ICO/SequenceLand/main.cpp	/^bool isconnected(int i,int j){$/;"	f	signature:(int i,int j)
+main	/Users/ayush/programming/src/ICO/SequenceLand/main.cpp	/^int main(){$/;"	f	signature:()
+mrkd	/Users/ayush/programming/src/ICO/SequenceLand/main.cpp	/^bool mrkd[301];$/;"	v
