@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+INF	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^const int INF= 2147483647;$/;"	v
+MAX	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^#define MAX(/;"	d	file:
+MIN	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^#define MIN(/;"	d	file:
+MOD	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^#define MOD /;"	d	file:
+bfs	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^void bfs(int x,int y){$/;"	f	signature:(int x,int y)
+dist1	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^int dist1[201][201];$/;"	v
+dist1	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^int dist1[77][201];$/;"	v
+dist1	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^int dist1[78][201];$/;"	v
+dist2	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^int dist2[201][201];$/;"	v
+dist2	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^int dist2[77][201];$/;"	v
+dist2	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^int dist2[78][201];$/;"	v
+exits	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^vector< pair<int,int> > exits;$/;"	v
+firflag	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^bool firflag=0;$/;"	v
+gridt	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^char gridt[201][201];$/;"	v
+gridt	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^char gridt[77][201];$/;"	v
+gridt	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^char gridt[78][201];$/;"	v
+h	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^int w,h;$/;"	v
+main	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^int main(){$/;"	f	signature:()
+visited	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^bool visited[201][201];$/;"	v
+visited	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^bool visited[77][201];$/;"	v
+visited	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^bool visited[78][201];$/;"	v
+w	/Users/ayush/programming/src/usacotraining/maze1/main.cpp	/^int w,h;$/;"	v

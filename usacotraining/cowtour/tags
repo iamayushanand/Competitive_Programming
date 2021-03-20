@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+INF	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^const int INF= 2147483647;$/;"	v
+MAX	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^#define MAX(/;"	d	file:
+MIN	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^#define MIN(/;"	d	file:
+MOD	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^#define MOD /;"	d	file:
+N	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^int N;$/;"	v
+X	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^int X[151];$/;"	v
+Y	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^int Y[151];$/;"	v
+currfield	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^int currfield=1;$/;"	v
+dfs	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^void dfs(int x){$/;"	f	signature:(int x)
+diam	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^double diam[151];$/;"	v
+diam	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^int diam[151];$/;"	v
+dist	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^double dist[151][151];$/;"	v
+fielddiam	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^double fielddiam[151];$/;"	v
+fielddiam	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^int fielddiam[151];$/;"	v
+fields	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^int fields[151];$/;"	v
+gph	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^int gph[151][151];$/;"	v
+main	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^int main(){$/;"	f	signature:()
+pythg	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^double pythg(int x,int y){$/;"	f	signature:(int x,int y)
+shrt	/Users/ayush/programming/src/usacotraining/cowtour/main.cpp	/^double shrt[151][151];$/;"	v

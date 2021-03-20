@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+INF	/Users/ayush/programming/src/usacotraining/kimbits/main.cpp	/^const int INF= 2147483647;$/;"	v
+MAX	/Users/ayush/programming/src/usacotraining/kimbits/main.cpp	/^#define MAX(/;"	d	file:
+MIN	/Users/ayush/programming/src/usacotraining/kimbits/main.cpp	/^#define MIN(/;"	d	file:
+MOD	/Users/ayush/programming/src/usacotraining/kimbits/main.cpp	/^#define MOD /;"	d	file:
+ans	/Users/ayush/programming/src/usacotraining/kimbits/main.cpp	/^string ans;$/;"	v
+main	/Users/ayush/programming/src/usacotraining/kimbits/main.cpp	/^int main(){$/;"	f	signature:()
+ncr	/Users/ayush/programming/src/usacotraining/kimbits/main.cpp	/^long long ncr(int n,int r){$/;"	f	signature:(int n,int r)
+ncr	/Users/ayush/programming/src/usacotraining/kimbits/main.cpp	/^long long ncr[32][32];$/;"	v
+solve	/Users/ayush/programming/src/usacotraining/kimbits/main.cpp	/^long long solve(int N,int L,int I){$/;"	f	signature:(int N,int L,int I)
+solve	/Users/ayush/programming/src/usacotraining/kimbits/main.cpp	/^long long solve(long long N,long long L,long long I){$/;"	f	signature:(long long N,long long L,long long I)

@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+INF	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^const int INF= 2147483647;$/;"	v
+MAX	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^#define MAX(/;"	d	file:
+MIN	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^#define MIN(/;"	d	file:
+MOD	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^#define MOD /;"	d	file:
+N	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^int N;$/;"	v
+ans	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^int ans=0;$/;"	v
+iscycle	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^bool iscycle(){$/;"	f	signature:()
+iscycle	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^bool iscycle(pair start, map< pair<long long,long long> , pair<long long, long long> > wormhol){$/;"	f	signature:(pair start, map< pair<long long,long long> , pair<long long, long long> > wormhol)
+iscycle	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^bool iscycle(pair<long long,long long> start, map< pair<long long,long long> , pair<long long, long long> > wormhol){$/;"	f	signature:(pair<long long,long long> start, map< pair<long long,long long> , pair<long long, long long> > wormhol)
+iscycle	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^int iscycle(){$/;"	f	signature:()
+iscycle	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^int iscycle(int i){$/;"	f	signature:(int i)
+lookup	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^map< long long , vector< pair<long long, long long> > > lookup;$/;"	v
+main	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^int main(){$/;"	f	signature:()
+nodes	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^vector< pair<long long, long long> > nodes;$/;"	v
+pairing	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^long long pairing[12];$/;"	v
+pairing	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^long long pairing[12]={-1};$/;"	v
+solve	/Users/ayush/programming/src/usacotraining/wormhole/main.cpp	/^int solve(){$/;"	f	signature:()

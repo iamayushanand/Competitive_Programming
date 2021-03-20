@@ -1,0 +1,45 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+INF	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^const int INF= 2147483647;$/;"	v
+INF	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^const int INF= 2147483647;$/;"	v
+MAX	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^#define MAX(/;"	d	file:
+MAX	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^#define MAX(/;"	d	file:
+MAXBITS	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^#define MAXBITS /;"	d	file:
+MAXSEQ	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^#define MAXSEQ /;"	d	file:
+MIN	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^#define MIN(/;"	d	file:
+MIN	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^#define MIN(/;"	d	file:
+MOD	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^#define MOD /;"	d	file:
+MOD	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^#define MOD /;"	d	file:
+Seq	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^struct Seq {$/;"	s	file:
+Seq	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^typedef struct Seq Seq;$/;"	t	typeref:struct:Seq	file:
+Seq::bits	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^    unsigned bits;$/;"	m	struct:Seq	file:	access:public
+Seq::count	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^    int count;$/;"	m	struct:Seq	file:	access:public
+addcur	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^void addcur(long long cur){$/;"	f	signature:(long long cur)
+addcur	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^void addcur(string cur){$/;"	f	signature:(string cur)
+addseq	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^addseq(unsigned bits, int n)$/;"	f	signature:(unsigned bits, int n)
+bits	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^    unsigned bits;$/;"	m	struct:Seq	file:	access:public
+cmpf	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^int cmpf(cntv A,cntv B){$/;"	f	signature:(cntv A,cntv B)
+cmpr	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^int cmpr(cnts A, cnts B){$/;"	f	signature:(cnts A, cnts B)
+cnt	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^	long long cnt;$/;"	m	struct:cnts	file:	access:public
+cnt	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^	long long cnt;$/;"	m	struct:cntv	file:	access:public
+cntmp	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^vector<cntv> cntmp;$/;"	v
+cnts	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^struct cnts{$/;"	s	file:
+cnts::cnt	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^	long long cnt;$/;"	m	struct:cnts	file:	access:public
+cnts::val	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^	string val;$/;"	m	struct:cnts	file:	access:public
+cntv	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^struct cntv{$/;"	s	file:
+cntv::cnt	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^	long long cnt;$/;"	m	struct:cntv	file:	access:public
+cntv::val	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^	long long val;$/;"	m	struct:cntv	file:	access:public
+count	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^    int count;$/;"	m	struct:Seq	file:	access:public
+main	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^int main(){$/;"	f	signature:()
+main	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^main(void)$/;"	f	signature:(void)
+mapping	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^vector<cnts> mapping;$/;"	v
+mapping	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^vector<cnts> mapping;$/;"	v	typeref:struct:cnts
+printbits	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^printbits(FILE *fout, unsigned bits)$/;"	f	signature:(FILE *fout, unsigned bits)
+seq	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^Seq seq[MAXSEQ];$/;"	v
+seqcmp	/Users/ayush/programming/src/usacotraining/contact/main2.cpp	/^seqcmp(const void *va, const void *vb)$/;"	f	signature:(const void *va, const void *vb)
+val	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^	long long val;$/;"	m	struct:cntv	file:	access:public
+val	/Users/ayush/programming/src/usacotraining/contact/main.cpp	/^	string val;$/;"	m	struct:cnts	file:	access:public

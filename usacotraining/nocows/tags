@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+INF	/Users/ayush/programming/src/usacotraining/nocows/main.cpp	/^const int INF= 2147483647;$/;"	v
+MAX	/Users/ayush/programming/src/usacotraining/nocows/main.cpp	/^#define MAX(/;"	d	file:
+MIN	/Users/ayush/programming/src/usacotraining/nocows/main.cpp	/^#define MIN(/;"	d	file:
+MOD	/Users/ayush/programming/src/usacotraining/nocows/main.cpp	/^#define MOD /;"	d	file:
+csum	/Users/ayush/programming/src/usacotraining/nocows/main.cpp	/^int csum[201][101];$/;"	v
+dp	/Users/ayush/programming/src/usacotraining/nocows/main.cpp	/^int dp[201][101];$/;"	v
+dp	/Users/ayush/programming/src/usacotraining/nocows/main.cpp	/^int dp[N+1][K+1];$/;"	v
+less	/Users/ayush/programming/src/usacotraining/nocows/main.cpp	/^int less[201][101];$/;"	v
+lesser	/Users/ayush/programming/src/usacotraining/nocows/main.cpp	/^int lesser[201][101];$/;"	v
+main	/Users/ayush/programming/src/usacotraining/nocows/main.cpp	/^int main(){$/;"	f	signature:()
+net	/Users/ayush/programming/src/usacotraining/nocows/main.cpp	/^int net[201][101];$/;"	v

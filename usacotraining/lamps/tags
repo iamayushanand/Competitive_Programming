@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+C	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^int N,C;$/;"	v
+INF	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^const int INF= 2147483647;$/;"	v
+MAX	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^#define MAX(/;"	d	file:
+MIN	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^#define MIN(/;"	d	file:
+MOD	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^#define MOD /;"	d	file:
+N	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^int N,C;$/;"	v
+N	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^int N;$/;"	v
+ans	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^vector< bitset<100> > ans;$/;"	v
+check	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^bool check(){$/;"	f	signature:()
+closed	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^vector<int> closed;$/;"	v
+compare	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^bool compare(bitset<100> a,bitset<100> b){$/;"	f	signature:(bitset<100> a,bitset<100> b)
+finalstate	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^bitset<100> finalstate;\/\/0 for closed 1 for open$/;"	v
+finalstate	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^bitset<4> finalstate;$/;"	v
+generate	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^int generate(int start){$/;"	f	signature:(int start)
+main	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^int main(){$/;"	f	signature:()
+open	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^vector<int> open;$/;"	v
+ops	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^bitset<4> ops;$/;"	v
+print	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^void print(){$/;"	f	signature:()
+solve	/Users/ayush/programming/src/usacotraining/lamps/main.cpp	/^bool solve(){$/;"	f	signature:()

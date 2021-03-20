@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+INF	/Users/ayush/programming/src/usacotraining/ttwo/main.cpp	/^const int INF= 2147483647;$/;"	v
+MAX	/Users/ayush/programming/src/usacotraining/ttwo/main.cpp	/^#define MAX(/;"	d	file:
+MIN	/Users/ayush/programming/src/usacotraining/ttwo/main.cpp	/^#define MIN(/;"	d	file:
+MOD	/Users/ayush/programming/src/usacotraining/ttwo/main.cpp	/^#define MOD /;"	d	file:
+ans	/Users/ayush/programming/src/usacotraining/ttwo/main.cpp	/^int ans;$/;"	v
+gridt	/Users/ayush/programming/src/usacotraining/ttwo/main.cpp	/^int gridt[11][11];$/;"	v
+main	/Users/ayush/programming/src/usacotraining/ttwo/main.cpp	/^int main(){$/;"	f	signature:()
+mvcw	/Users/ayush/programming/src/usacotraining/ttwo/main.cpp	/^int mvcw(int &x,int &y,int cd){$/;"	f	signature:(int &x,int &y,int cd)
+mvcw	/Users/ayush/programming/src/usacotraining/ttwo/main.cpp	/^int mvcw(int &xcow,int &ycow,int cd){$/;"	f	signature:(int &xcow,int &ycow,int cd)

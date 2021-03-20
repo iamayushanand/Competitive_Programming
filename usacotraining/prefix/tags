@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+INF	/Users/ayush/programming/src/usacotraining/prefix/main.cpp	/^const int INF= 2147483647;$/;"	v
+MAX	/Users/ayush/programming/src/usacotraining/prefix/main.cpp	/^#define MAX(/;"	d	file:
+MIN	/Users/ayush/programming/src/usacotraining/prefix/main.cpp	/^#define MIN(/;"	d	file:
+MOD	/Users/ayush/programming/src/usacotraining/prefix/main.cpp	/^#define MOD /;"	d	file:
+dp	/Users/ayush/programming/src/usacotraining/prefix/main.cpp	/^bool dp[200000];$/;"	v
+dp	/Users/ayush/programming/src/usacotraining/prefix/main.cpp	/^int dp[200000];$/;"	v
+inp	/Users/ayush/programming/src/usacotraining/prefix/main.cpp	/^string inp="";$/;"	v
+main	/Users/ayush/programming/src/usacotraining/prefix/main.cpp	/^int main(){$/;"	f	signature:()
+primitives	/Users/ayush/programming/src/usacotraining/prefix/main.cpp	/^map<string, int> primitives;$/;"	v
+primitives	/Users/ayush/programming/src/usacotraining/prefix/main.cpp	/^set< string > primitives;$/;"	v
+primitives	/Users/ayush/programming/src/usacotraining/prefix/main.cpp	/^set<string, int> primitives;$/;"	v
+primitives	/Users/ayush/programming/src/usacotraining/prefix/main.cpp	/^set<string> primitives;$/;"	v
+primitives	/Users/ayush/programming/src/usacotraining/prefix/main.cpp	/^vector<string> primitives;$/;"	v
+solve	/Users/ayush/programming/src/usacotraining/prefix/main.cpp	/^int solve(){$/;"	f	signature:()
+solve	/Users/ayush/programming/src/usacotraining/prefix/main.cpp	/^int solve(int start){$/;"	f	signature:(int start)

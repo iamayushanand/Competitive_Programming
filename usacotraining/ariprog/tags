@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+INF	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^const int INF= 2147483647;$/;"	v
+M	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^int M;$/;"	v
+M	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^int M=250;$/;"	v
+MAX	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^#define MAX(/;"	d	file:
+MIN	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^#define MIN(/;"	d	file:
+MOD	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^#define MOD /;"	d	file:
+N	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^int N;$/;"	v
+bisq	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^set<int> bisq;$/;"	v
+bitmask	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^bool bitmask[125000];$/;"	v
+check	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^int check(int a,int d){$/;"	f	signature:(int a,int d)
+generate	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^generate(){$/;"	f	signature:()
+generate	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^int generate(){$/;"	f	signature:()
+generate	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^void generate(){$/;"	f	signature:()
+lookup	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^bool lookup[125000];$/;"	v
+lookup	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^bool lookup[125001];$/;"	v
+main	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^int main(){$/;"	f	signature:()
+solve	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^int solve(int a,int b,int d){$/;"	f	signature:(int a,int b,int d)
+sset	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^set<int> sset;$/;"	v
+sset	/Users/ayush/programming/src/usacotraining/ariprog/main.cpp	/^vector<int> sset;$/;"	v

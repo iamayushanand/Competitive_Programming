@@ -1,0 +1,32 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+G	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^int V,G;$/;"	v
+INF	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^const int INF= 2147483647;$/;"	v
+MAX	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^#define MAX(/;"	d	file:
+MIN	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^#define MIN(/;"	d	file:
+MOD	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^#define MOD /;"	d	file:
+V	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^int V,G;$/;"	v
+ans	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^vector< vector<int> > ans;$/;"	v
+check	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^int check(){$/;"	f	signature:()
+clr	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^int clr(){$/;"	f	signature:()
+compareto	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^bool compareto(vector<int> a,vector<int> b){$/;"	f	signature:(vector<int> a,vector<int> b)
+compto	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^int compto(vector<int> a,vector<int> b){$/;"	f	signature:(vector<int> a,vector<int> b)
+flag	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^bool flag[16];$/;"	v
+main	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^int main(){$/;"	f	signature:()
+opts	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^int opts[15][26];$/;"	v
+opts	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^int opts[16][16];$/;"	v
+opts	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^int opts[16][26];$/;"	v
+req	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^int req[26];$/;"	v
+req	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^vector<int> req;$/;"	v
+solve	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^int solve(int r[]){$/;"	f	signature:(int r[])
+solve	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^int solve(int r[],int last,vector<int> tmpans){$/;"	f	signature:(int r[],int last,vector<int> tmpans)
+solve	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^int solve(int start){$/;"	f	signature:(int start)
+solve	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^int solve(vector<int> r,bool dep){$/;"	f	signature:(vector<int> r,bool dep)
+solve	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^int solve(vector<int> r,bool dep,int lst){$/;"	f	signature:(vector<int> r,bool dep,int lst)
+solved	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^bool solved(){$/;"	f	signature:()
+solved	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^int solved(){$/;"	f	signature:()
+tmp	/Users/ayush/programming/src/usacotraining/holstein/main.cpp	/^vector<int> tmp;$/;"	v
