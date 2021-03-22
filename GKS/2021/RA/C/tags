@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+INF	/Users/ayush/programming/src/GitHub/Competitive_Programming/GKS/2021/RA/C/main.cpp	/^const int INF= 2147483647;$/;"	v
+MAX	/Users/ayush/programming/src/GitHub/Competitive_Programming/GKS/2021/RA/C/main.cpp	/^#define MAX(/;"	d	file:
+MIN	/Users/ayush/programming/src/GitHub/Competitive_Programming/GKS/2021/RA/C/main.cpp	/^#define MIN(/;"	d	file:
+MOD	/Users/ayush/programming/src/GitHub/Competitive_Programming/GKS/2021/RA/C/main.cpp	/^#define MOD /;"	d	file:
+dfs	/Users/ayush/programming/src/GitHub/Competitive_Programming/GKS/2021/RA/C/main.cpp	/^long long dfs(int stx,int sty,int R,int C,long long grid[301][301]){$/;"	f	signature:(int stx,int sty,int R,int C,long long grid[301][301])
+dirx	/Users/ayush/programming/src/GitHub/Competitive_Programming/GKS/2021/RA/C/main.cpp	/^vector< pair<int,int> > dirx;$/;"	v
+dirx	/Users/ayush/programming/src/GitHub/Competitive_Programming/GKS/2021/RA/C/main.cpp	/^vector< pair<int,int> > dirx={ {1,0}, {0,1} , {-1,0} , {0,-1} };$/;"	v
+main	/Users/ayush/programming/src/GitHub/Competitive_Programming/GKS/2021/RA/C/main.cpp	/^int main(){$/;"	f	signature:()
+solve	/Users/ayush/programming/src/GitHub/Competitive_Programming/GKS/2021/RA/C/main.cpp	/^long long solve(){$/;"	f	signature:()
+visited	/Users/ayush/programming/src/GitHub/Competitive_Programming/GKS/2021/RA/C/main.cpp	/^bool visited[301][301];$/;"	v
