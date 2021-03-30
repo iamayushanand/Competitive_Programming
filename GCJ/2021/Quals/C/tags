@@ -1,0 +1,46 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+INF	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/analyse.cpp	/^const int INF= 2147483647;$/;"	v
+INF	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main.cpp	/^const int INF= 2147483647;$/;"	v
+INF	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main2.cpp	/^const int INF= 2147483647;$/;"	v
+INF	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/solC.cpp	/^const int INF= 2147483647;$/;"	v
+L	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/analyse.cpp	/^int L[20];$/;"	v
+L	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main.cpp	/^int L[101];$/;"	v
+L	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main.cpp	/^int L[20];$/;"	v
+L	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main2.cpp	/^int L[101];$/;"	v
+MAX	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/analyse.cpp	/^#define MAX(/;"	d	file:
+MAX	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main.cpp	/^#define MAX(/;"	d	file:
+MAX	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main2.cpp	/^#define MAX(/;"	d	file:
+MAX	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/solC.cpp	/^#define MAX(/;"	d	file:
+MIN	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/analyse.cpp	/^#define MIN(/;"	d	file:
+MIN	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main.cpp	/^#define MIN(/;"	d	file:
+MIN	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main2.cpp	/^#define MIN(/;"	d	file:
+MIN	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/solC.cpp	/^#define MIN(/;"	d	file:
+MOD	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/analyse.cpp	/^#define MOD /;"	d	file:
+MOD	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main.cpp	/^#define MOD /;"	d	file:
+MOD	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main2.cpp	/^#define MOD /;"	d	file:
+MOD	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/solC.cpp	/^#define MOD /;"	d	file:
+cost	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/analyse.cpp	/^int cost(int N){$/;"	f	signature:(int N)
+cost	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main.cpp	/^int cost(int N){$/;"	f	signature:(int N)
+cost	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main.cpp	/^int cost(int N,int L[]){$/;"	f	signature:(int N,int L[])
+cost	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main2.cpp	/^int cost(int N){$/;"	f	signature:(int N)
+done	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/analyse.cpp	/^bool done=0;$/;"	v
+done	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main.cpp	/^bool done=0;$/;"	v
+main	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/analyse.cpp	/^int main(){$/;"	f	signature:()
+main	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main.cpp	/^int main(){$/;"	f	signature:()
+main	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main2.cpp	/^int main(){$/;"	f	signature:()
+main	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/solC.cpp	/^int main(int argc, char **argv)$/;"	f	signature:(int argc, char **argv)
+mn	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/analyse.cpp	/^int mn[20];$/;"	v
+mx	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/analyse.cpp	/^int mx[20];$/;"	v
+occup	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main.cpp	/^bool occup[10];$/;"	v
+recur	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main.cpp	/^int recur(int cur,int N,int C){$/;"	f	signature:(int cur,int N,int C)
+revert	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/solC.cpp	/^void revert(vector<int> &v, int start, int end) {$/;"	f	signature:(vector<int> &v, int start, int end)
+solve	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/analyse.cpp	/^void solve(){$/;"	f	signature:()
+solve	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main.cpp	/^int solve(){$/;"	f	signature:()
+solve	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main.cpp	/^void solve(){$/;"	f	signature:()
+solve	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main.cpp	/^void solve(int cur){$/;"	f	signature:(int cur)
+solve	/Users/ayush/programming/src/GitHub/Competitive_Programming/GCJ/2021/Quals/C/main2.cpp	/^void solve(){$/;"	f	signature:()
